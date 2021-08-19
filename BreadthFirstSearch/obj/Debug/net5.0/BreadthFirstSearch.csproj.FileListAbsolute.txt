@@ -1,0 +1,16 @@
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\BreadthFirstSearch\bin\Debug\net5.0\BreadthFirstSearch.exe
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\BreadthFirstSearch\bin\Debug\net5.0\BreadthFirstSearch.deps.json
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\BreadthFirstSearch\bin\Debug\net5.0\BreadthFirstSearch.runtimeconfig.json
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\BreadthFirstSearch\bin\Debug\net5.0\BreadthFirstSearch.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\BreadthFirstSearch\bin\Debug\net5.0\BreadthFirstSearch.dll
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\BreadthFirstSearch\bin\Debug\net5.0\ref\BreadthFirstSearch.dll
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\BreadthFirstSearch\bin\Debug\net5.0\BreadthFirstSearch.pdb
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\BreadthFirstSearch\obj\Debug\net5.0\BreadthFirstSearch.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\BreadthFirstSearch\obj\Debug\net5.0\BreadthFirstSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\BreadthFirstSearch\obj\Debug\net5.0\BreadthFirstSearch.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\BreadthFirstSearch\obj\Debug\net5.0\BreadthFirstSearch.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\BreadthFirstSearch\obj\Debug\net5.0\BreadthFirstSearch.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\BreadthFirstSearch\obj\Debug\net5.0\BreadthFirstSearch.dll
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\BreadthFirstSearch\obj\Debug\net5.0\ref\BreadthFirstSearch.dll
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\BreadthFirstSearch\obj\Debug\net5.0\BreadthFirstSearch.pdb
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\BreadthFirstSearch\obj\Debug\net5.0\BreadthFirstSearch.genruntimeconfig.cache
