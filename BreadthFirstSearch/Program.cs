@@ -17,6 +17,7 @@ namespace BreadthFirstSearch
             Nikita.isFriendOf(Nastya);
             Valera.isFriendOf(Maya);
             Console.WriteLine(BFSearch(Vitya,"Maya"));
+            Console.WriteLine(BFSearch(Vitya,"Dima"));
             
         }
 
