@@ -8,7 +8,8 @@ namespace BreadthFirstSearch
         {
             Name = name;
         }
-        public string Name { get; set; }
+         
+        public string Name {  get; set; }
         List<Human> HumanList = new List<Human>();
         public List<Human> Friends 
         {
