@@ -25,10 +25,10 @@ namespace DijkstraAlgorithm
             }
             return null;
         }
-        public void AddEdge(GraphVertex first, GraphVertex second, int weight)
+        public void AddEdge(string first, string second, int weight)
         {
-            GraphVertex firstVertex = FindVertex(first.Name);
-            GraphVertex secondVertex = FindVertex(second.Name);
+            GraphVertex firstVertex = FindVertex(first);
+            GraphVertex secondVertex = FindVertex(second);
             if(firstVertex !=null && secondVertex != null && firstVertex != secondVertex)
             {
                 firstVertex.AddEdge(secondVertex,weight);
