@@ -1,0 +1,16 @@
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\DijkstraAlgorithm\bin\Debug\net5.0\DijkstraAlgorithm.exe
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\DijkstraAlgorithm\bin\Debug\net5.0\DijkstraAlgorithm.deps.json
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\DijkstraAlgorithm\bin\Debug\net5.0\DijkstraAlgorithm.runtimeconfig.json
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\DijkstraAlgorithm\bin\Debug\net5.0\DijkstraAlgorithm.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\DijkstraAlgorithm\bin\Debug\net5.0\DijkstraAlgorithm.dll
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\DijkstraAlgorithm\bin\Debug\net5.0\ref\DijkstraAlgorithm.dll
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\DijkstraAlgorithm\bin\Debug\net5.0\DijkstraAlgorithm.pdb
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\DijkstraAlgorithm\obj\Debug\net5.0\DijkstraAlgorithm.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\DijkstraAlgorithm\obj\Debug\net5.0\DijkstraAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\DijkstraAlgorithm\obj\Debug\net5.0\DijkstraAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\DijkstraAlgorithm\obj\Debug\net5.0\DijkstraAlgorithm.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\DijkstraAlgorithm\obj\Debug\net5.0\DijkstraAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\DijkstraAlgorithm\obj\Debug\net5.0\DijkstraAlgorithm.dll
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\DijkstraAlgorithm\obj\Debug\net5.0\ref\DijkstraAlgorithm.dll
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\DijkstraAlgorithm\obj\Debug\net5.0\DijkstraAlgorithm.pdb
+C:\Users\Viktor\source\repos\GrokkingAlgorithms\DijkstraAlgorithm\obj\Debug\net5.0\DijkstraAlgorithm.genruntimeconfig.cache

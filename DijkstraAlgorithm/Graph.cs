@@ -32,7 +32,7 @@ namespace DijkstraAlgorithm
             if(firstVertex !=null && secondVertex != null && firstVertex != secondVertex)
             {
                 firstVertex.AddEdge(secondVertex,weight);
-                secondVertex.AddEdge(firstVertex,weight);
+                //secondVertex.AddEdge(firstVertex,weight);
             }
         }
     }
