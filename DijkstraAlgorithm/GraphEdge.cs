@@ -1,4 +1,4 @@
-namespace DijktraAlgorithm
+namespace DijkstraAlgorithm
 {
     class GraphEdge 
     {

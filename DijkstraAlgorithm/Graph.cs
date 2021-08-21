@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace DijktraAlgorithm
+namespace DijkstraAlgorithm
 {
     class Graph 
     {
