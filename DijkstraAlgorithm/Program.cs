@@ -29,7 +29,7 @@ namespace DijkstraAlgorithm
             g.AddEdge("D", "F", 41);
             g.AddEdge("E", "F", 17);
             g.AddEdge("E", "G", 58);
-            g.AddEdge("F", "G", 84);
+            g.AddEdge("F", "G", 94);
 
             var dijkstra = new Dijkstra(g);
             var path = dijkstra.FindShortestPath("A", "G");
